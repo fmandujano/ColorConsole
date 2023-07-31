@@ -13,6 +13,7 @@ int GameVerbosity = 2;
 
 std::fstream logfile;
 
+
 //enum de canales
 enum ConsoleChannel{
     Render,Audio,Input,Phys,Assets,Game
