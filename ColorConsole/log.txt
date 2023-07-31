@@ -1,0 +1,6 @@
+[Mon Jul 31 10:58:37 2023
+] Logfile open 
+LogRenderManager: inicializando render manager
+LogAudioManager: init audio
+LogGameManager: hola mundo
+LogGameManager: no hay juego para cargar :(
